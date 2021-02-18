@@ -1,43 +1,17 @@
 # Text Classification and Topic Modelling 
-> An effort to classify the text to the right classes ( InfoTheory, CompVis and Math) and 
+> An effort to classify the text to the right classes ( InfoTheory, CompVis and Math) and modelling the topic from the text.
 
 ## Table of contents
 * [Text Classification](#general-info)
 * [Topic Modelling](#screenshots)
 
 ## General info
-The purpose of the project is comparing different machine learning models and deep models performance in the task of classify class of the text and modelling the topics. Besides, improving the skills while dealing with Natural Language Processing tasks.
+The purpose of the project is comparing different machine learning models and neuro network models performance in the task of classifying the class of the text and in modelling the topics that the text indicate. Besides, improving the skills while dealing with Natural Language Processing tasks.
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
+## Text Classification
+In this part, I did the data preparation and trained the data by using 3 different neuronetwork models: simple RNN, LSTM, FastText verus 3 machine learning models namely Logistic Regeression, Linear SVC, RandomForestClassifier and comparing the performance between them.
 
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+## Topic Modelling
+By using the gensim, and nltk package, after going through many text pre-processing steps such as tokenization, lemmatization etc.. I could visualize and figure out the topic mentined through the text in the documents.
 
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
-
-## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
-
-## Inspiration
-Add here credits. Project inspired by..., based on...
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!

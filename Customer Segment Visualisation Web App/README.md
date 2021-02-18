@@ -2,7 +2,7 @@
 > The purpose of this project is using the analysed data to generate an interactive web app by using R-shiny package
 
 ## Screenshots
-![Example screenshot](./Customer_Segment_Visualization.png.png)
+![Example screenshot](./Customer_Segment_Visualization.png)
 
 ## Technologies
 * Tech 1 - version 1.0

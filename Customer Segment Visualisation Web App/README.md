@@ -5,7 +5,7 @@
 ![Customer_Segment_Visualization](https://user-images.githubusercontent.com/41248641/108426690-29f96780-7290-11eb-822a-334c9402b097.png)
 
 ## Features
-- Filter the cluster by marker
+- Filter the cluster by markers
 - Cluster exploration: pick the cluster to highlight and show information
 - Showing the seller infos when hovering over: seller id, city, revenue, cluster
 

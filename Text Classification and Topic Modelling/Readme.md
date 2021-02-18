@@ -1,12 +1,12 @@
 # Text Classification and Topic Modelling 
-> An effort to classify the text by the 
+> An effort to classify the text to the right classes ( InfoTheory, CompVis and Math) and 
 
 ## Table of contents
-* [Text Classification(#general-info)
+* [Text Classification](#general-info)
 * [Topic Modelling](#screenshots)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+The purpose of the project is comparing different machine learning models and deep models performance in the task of classify class of the text and modelling the topics. Besides, improving the skills while dealing with Natural Language Processing tasks.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)

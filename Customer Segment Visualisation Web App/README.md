@@ -1,4 +1,4 @@
-# Customer Segment Visualisation Web App
+# Customer Segment Visualisation Web Page
 > The purpose of this project is using the analysed data to generate an interactive web page by using R-shiny package
 
 ## Final Screenshot

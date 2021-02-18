@@ -47,8 +47,3 @@ and origin (tracking the source of marketing channel)
 Link:​ https://www.kaggle.com/olistbr/marketing-funnel-olist/home#olist_marketing_
 qualified_leads_dataset.csv
 
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
-

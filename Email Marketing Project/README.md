@@ -10,13 +10,13 @@ They have chosen a random sample of users and emailed them. The email let the us
 
 You are in charge of figuring out how the email campaign performed and were asked the following questions:
 
-What percentage of users opened the email and what percentage clicked on the link within the email?
+1. What percentage of users opened the email and what percentage clicked on the link within the email?
 
-The VP of marketing thinks that it is stupid to send emails to a random subset and in a random way. Based on all the information you have about the emails that were sent, can you build a model to optimize in future email campaigns to maximize the probability of users clicking on the link inside the email?
+2. The VP of marketing thinks that it is stupid to send emails to a random subset and in a random way. Based on all the information you have about the emails that were sent, can you build a model to optimize in future email campaigns to maximize the probability of users clicking on the link inside the email?
 
-By how much do you think your model would improve click through rate ( defined as # of users who click on the link / total users who received the email). How would you test that?
+3. By how much do you think your model would improve click through rate ( defined as # of users who click on the link / total users who received the email). How would you test that?
 
-Did you find any interesting pattern on how the email campaign performed for different segments of users? Explain.
+4. Did you find any interesting pattern on how the email campaign performed for different segments of users? Explain.
 
 ## Data Description:
 email_id : the Id of the email that was sent. It is unique by email

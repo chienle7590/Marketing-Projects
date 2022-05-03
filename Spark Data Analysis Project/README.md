@@ -1,8 +1,9 @@
 # Olist Big Data Analysis using Spark
 ## Introduction:
-This project is a private project that I did to apply the knowledge obtained from Data Engineer Python Course in Datacamp. The ultimate purpose is to understand how spark works and employ the pyspark library to analyze the Olist Ecommerce data with more than 4 million rows. 
+This project is a private project that I did to apply the knowledge obtained from Data Engineer Python Course in Datacamp. The ultimate purpose is to understand how Spark works and employ the Pyspark library to analyze the Olist Ecommerce data with more than 4 million rows. 
 
 During the project, I explained and pointed out some of the differences between spark and pandas such as the lazy processing, the SQL query, and dataframe immutability.    
+
 ## Challenge Description
 To complete the project, I have to overcome some of the challenges:
 1. Set up and run Spark in a local machine 

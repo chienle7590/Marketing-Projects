@@ -1,6 +1,6 @@
 # Email Marketing Project
 ## Introduction:
-Optimizing marketing campaigns is one of the most common data science tasks. Among the many possible marketing tools, one of the most efficient is using emails.
+Optimizing marketing campaigns is one of the most common data science tasks. Among the many possible marketing tools, one of the most efficient approaches is using emails.
 Emails are great cause they are free and can be easily personalized. Email optimization involves personalizing the text and/or the subject, who should receive it, when should be sent, etc. Machine Learning excels at this.
 
 ## Challenge Description
